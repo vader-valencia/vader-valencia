@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vader-valencia
+- 👀 I’m interested in machine learning, equity and options trading, and cryptocurrency development. I also love Star Wars!
+- 🌱 I’m currently learning machine learning methods for unstructured and structured data
+- 💞️ I’m looking to collaborate on a Star Wars machine learning project
+- 📫 How to reach me: valencia.joseph.e@gmail.com
